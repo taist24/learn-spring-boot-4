@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "jwt.private-key",
+      "type": "java.lang.String",
+      "description": "The location of the private key for JWT signing."
+    },
+    {
+      "name": "jwt.public-key",
+      "type": "java.lang.String",
+      "description": "The location of the public key for JWT verification."
+    }
+  ]
+}
